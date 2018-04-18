@@ -1,0 +1,7 @@
+Without filtering outliers
+mean: 13.71 hours
+std: 49.48 hours
+
+After filtering outliers
+mean: 1.59 hours
+std: 2.09 hours
