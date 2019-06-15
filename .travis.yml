@@ -1,6 +1,13 @@
 language: python
+
 python:
   - "3.6"
 
 script: python3 test_travis_ci.py
 
+branches:
+  only:
+    - master
+
+notifications:
+  email: false
